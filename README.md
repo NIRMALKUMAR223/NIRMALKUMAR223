@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NIRMALKUMAR223
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning MERN
-- 📫 How to reach me rockerrock223@gmail.comm
+- 📫 How to reach me rockerrock223@gmail.com
 - 😄 Pronouns: I love travelling
 - ⚡ Fun fact: Life is like a camera face it with a smile
 
