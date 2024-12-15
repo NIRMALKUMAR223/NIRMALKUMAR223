@@ -29,12 +29,9 @@
   <div class="mt-6">
     <h2 class="text-2xl font-semibold text-teal-200">⚡ Technologies & Tools I Use:</h2>
     <ul class="list-disc list-inside mt-2 text-lg text-teal-100">
-      <li><strong>Frontend:</strong> React, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript</li>
+      <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, React</li>
       <li><strong>Backend:</strong> Node.js, Express, MongoDB</li>
-      <li><strong>DevOps:</strong> Docker, CI/CD pipelines</li>
-      <li><strong>Version Control:</strong> Git, GitHub, GitLab</li>
-      <li><strong>Cloud:</strong> AWS, Azure</li>
-      <li><strong>Others:</strong> RESTful APIs, GraphQL, Redux, Next.js, Firebase</li>
+      <li><strong>Version Control:</strong> Git, GitHub</li>
     </ul>
   </div>
 </div>
