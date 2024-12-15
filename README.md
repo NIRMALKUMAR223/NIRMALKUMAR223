@@ -1,6 +1,6 @@
 <div class="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-white p-8 rounded-lg shadow-xl max-w-xl mx-auto transition-transform transform hover:scale-105 hover:shadow-2xl">
   <h1 class="text-4xl font-semibold text-center animate__animated animate__fadeIn">Hi, I’m NIRMALKUMAR 👋</h1>
-  <p class="text-lg mt-2 text-center animate__animated animate__fadeIn animate__delay-1s">I'm a passionate and experienced software developer with over 10 years in the industry. I specialize in web development and have an extensive background in the MERN stack. I love creating elegant solutions and solving complex problems with code.</p>
+
 
   <div class="mt-6">
     <h2 class="text-2xl font-semibold text-teal-200">👀 Interests:</h2>
