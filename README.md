@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NIRMALKUMAR
+- 👋 <h1>Hi, I’m NIRMALKUMAR</h1>
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me rockerrock223@gmail.com
